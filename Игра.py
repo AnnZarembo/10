@@ -1,7 +1,7 @@
 import random
 import logging
 
-logging.basicConfig(filename='Ugadaika.log', level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+logging.basicConfig(filename='Игра.log', level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 
 def polsovatel():
     while True:
